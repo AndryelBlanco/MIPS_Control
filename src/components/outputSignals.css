@@ -1,0 +1,47 @@
+.output-signals-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.row{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.signal-container{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.circle-signal{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  width: 50px;
+  height: 50px;
+
+  border-radius: 10000px;
+}
+
+.green{
+  background-color: rgb(18, 182, 3);
+}
+
+.red{
+  background-color: red;
+  color: rgb(255, 255, 255);
+}
+
+.yellow{
+  background-color: rgb(255, 153, 0);
+  color: rgb(56, 56, 56);
+}
+

@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+:root {
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background: linear-gradient(180deg, #000927 0%, #00114F 100%);
+}
+
+

@@ -1,0 +1,7 @@
+.instruction-input{
+  color: #7199ff !important;
+  border: 3px solid #3C72FF;
+
+  min-width: 200px;
+  max-width: 200px;
+}
